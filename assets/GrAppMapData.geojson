@@ -1,0 +1,1175 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.14763,34.1897409 ]
+    },
+    "properties": {
+    "promotion":"American Championship Wrestling",
+    "state":"AL",
+    "location":"233 US-431, Sardis City, AL 35957",
+    "yrfounded":2017,
+    "yrs":8,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.8316318,33.6598257 ]
+    },
+    "properties": {
+    "promotion":"New Level Pro Wrestling",
+    "state":"AL",
+    "location":"Anniston, AL",
+    "yrfounded":2018,
+    "yrs":7,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.9365505,34.4310243 ]
+    },
+    "properties": {
+    "promotion":"New South Pro Wrestling",
+    "state":"AL",
+    "location":"406 Nance Ford Rd SW, Hartselle, AL, 35640",
+    "yrfounded":2015,
+    "yrs":10,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.5998242,33.9318416 ]
+    },
+    "properties": {
+    "promotion":"ProSouth Wrestling",
+    "state":"AL",
+    "location":"527 Southern Ave, Piedmont, AL 36272",
+    "yrfounded":2008,
+    "yrs":17,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.8103567,33.5185892 ]
+    },
+    "properties": {
+    "promotion":"Retinal Wrestling",
+    "state":"AL",
+    "location":"Birmingham, AL",
+    "yrfounded":2023,
+    "yrs":2,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.7758201,33.7453104 ]
+    },
+    "properties": {
+    "promotion":"All Pro Championship Wrestling",
+    "state":"GA",
+    "location":"7575 Owl Creek Dr Ste B, Douglasville, GA 30134",
+    "yrfounded":2015,
+    "yrs":10,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.0766113,33.5801103 ]
+    },
+    "properties": {
+    "promotion":"IWA Deep South",
+    "state":"GA",
+    "location":"Carrollton, GA",
+    "yrfounded":2005,
+    "yrs":20,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.2013633,33.9072162 ]
+    },
+    "properties": {
+    "promotion":"Mucha Lucha Atlanta",
+    "state":"GA",
+    "location":"6100 Live Oaks Pkway, Norcross, GA 30093",
+    "yrfounded":2014,
+    "yrs":11,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5908432,34.5093955 ]
+    },
+    "properties": {
+    "promotion":"Pro Wrestling Georgia",
+    "state":"GA",
+    "location":"4246 Level Grove Rd, Cornelia, GA 30531",
+    "yrfounded":2019,
+    "yrs":6,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4921092,34.2304867 ]
+    },
+    "properties": {
+    "promotion":"Southern Honor Wrestling",
+    "state":"GA",
+    "location":"261 Marietta Rd, Canton, GA 30114",
+    "yrfounded":2018,
+    "yrs":7,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2450387,34.5187224 ]
+    },
+    "properties": {
+    "promotion":"Southern Wrestling Association",
+    "state":"GA",
+    "location":"244 Eastanollee Livestock Rd, Eastanollee, GA 30538",
+    "yrfounded":2017,
+    "yrs":8,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9384131,33.74764 ]
+    },
+    "properties": {
+    "promotion":"West Georgia Wrestling",
+    "state":"GA",
+    "location":"646 Industrial Blvd, Villa Rica, GA 30180",
+    "yrfounded":2020,
+    "yrs":5,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.0289459,33.2722473 ]
+    },
+    "properties": {
+    "promotion":"Wrestling United",
+    "state":"GA",
+    "location":"2020 Thompson Rd, Franklin, GA 30217",
+    "yrfounded":2018,
+    "yrs":7,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.1932284,37.24954 ]
+    },
+    "properties": {
+    "promotion":"Appalachian Mountain Wrestling",
+    "state":"KY",
+    "location":"3115 North Main Street, Hazard, KY",
+    "yrfounded":2015,
+    "yrs":10,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.6612649,38.1846642 ]
+    },
+    "properties": {
+    "promotion":"Ohio Valley Wrestling",
+    "state":"KY",
+    "location":"4400 Shepherdsville Rd, Louisville, KY 40218",
+    "yrfounded":1993,
+    "yrs":32,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.647,39.334 ]
+    },
+    "properties": {
+    "promotion":"Ring of Honor",
+    "state":"MD",
+    "location":"2000 West 41st St, Baltimore, MD 21211",
+    "yrfounded":2002,
+    "yrs":23,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.631736,34.1514989 ]
+    },
+    "properties": {
+    "promotion":"Pro Wrestling Association",
+    "state":"MS",
+    "location":"Water Valley, MS",
+    "yrfounded":2015,
+    "yrs":10,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.687644,34.6411255 ]
+    },
+    "properties": {
+    "promotion":"Redeemed Wrestling",
+    "state":"MS",
+    "location":"30000 MS-4, Senatobia, MS 38668",
+    "yrfounded":2018,
+    "yrs":7,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.5222702,34.9342548 ]
+    },
+    "properties": {
+    "promotion":"Ultimate Championship Pro Wrestling South",
+    "state":"MS",
+    "location":"Corinth, MS",
+    "yrfounded":2016,
+    "yrs":9,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.7776926,34.2840946 ]
+    },
+    "properties": {
+    "promotion":"VIP Championship Wrestling",
+    "state":"MS",
+    "location":"1879 Coley Rd, Tupelo, MS 38801",
+    "yrfounded":2022,
+    "yrs":3,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.238,42.096 ]
+    },
+    "properties": {
+    "promotion":"Southern Tier Wrestling",
+    "state":"NY",
+    "location":"Jamestown, NY",
+    "yrfounded":2016,
+    "yrs":9,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.7812579,42.1837019 ]
+    },
+    "properties": {
+    "promotion":"Ultimate Wrestling",
+    "state":"NY",
+    "location":"116 Breesport Rd, Horseheads, NY 14845",
+    "yrfounded":2007,
+    "yrs":18,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.911,42.099 ]
+    },
+    "properties": {
+    "promotion":"Xcite Wrestling",
+    "state":"NY",
+    "location":"Binghamton, NY",
+    "yrfounded":2012,
+    "yrs":13,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.1071944,35.9071387 ]
+    },
+    "properties": {
+    "promotion":"Alexander County Championship Wrestling",
+    "state":"NC",
+    "location":"276 Wayfound Church Rd, Hiddenite, NC 28636",
+    "yrfounded":2016,
+    "yrs":9,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.6072858,36.4993007 ]
+    },
+    "properties": {
+    "promotion":"AIWF Mid Atlantic Wrestling",
+    "state":"NC",
+    "location":"Mt Airy, NC 27030",
+    "yrfounded":1992,
+    "yrs":23,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2635139,36.1497276 ]
+    },
+    "properties": {
+    "promotion":"America's Most Liked Wrestling",
+    "state":"NC",
+    "location":"4421 N Cherry St #50, Winston-Salem, NC 27105",
+    "yrfounded":2014,
+    "yrs":11,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0907285,35.9025283 ]
+    },
+    "properties": {
+    "promotion":"Apple City Championship Wrestling",
+    "state":"NC",
+    "location":"70 Hiddenite Church Rd, Hiddenite, NC 28636",
+    "yrfounded":2023,
+    "yrs":2,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.1461917,35.7145776 ]
+    },
+    "properties": {
+    "promotion":"Versus The World Wrestling",
+    "state":"NC",
+    "location":"Claremont, NC",
+    "yrfounded":2017,
+    "yrs":8,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.684073,38.5335475 ]
+    },
+    "properties": {
+    "promotion":"Failure to Conform Pro Wrestling",
+    "state":"OH",
+    "location":"311 S 3rd St, Ironton, OH 54638",
+    "yrfounded":2017,
+    "yrs":8,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.968,39.335 ]
+    },
+    "properties": {
+    "promotion":"World Classic Professional Big Time Wrestling",
+    "state":"OH",
+    "location":"Chillicothe, OH",
+    "yrfounded":1977,
+    "yrs":48,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.7816937,40.6592342 ]
+    },
+    "properties": {
+    "promotion":"All or Nothing",
+    "state":"PA",
+    "location":"Northern Cambria, PA",
+    "yrfounded":2019,
+    "yrs":6,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.3515059,40.8252548 ]
+    },
+    "properties": {
+    "promotion":"Asylum Pro Wrestling",
+    "state":"PA",
+    "location":"704 Hannah St, Houtzdale, PA 16651",
+    "yrfounded":2016,
+    "yrs":9,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.6524772,41.4176048 ]
+    },
+    "properties": {
+    "promotion":"Back Breakers Entertainment",
+    "state":"PA",
+    "location":"1008 N Washington Ave, Scranton, PA 18509",
+    "yrfounded":2017,
+    "yrs":8,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8645855,40.3522986 ]
+    },
+    "properties": {
+    "promotion":"Fight Underground",
+    "state":"PA",
+    "location":"McKeesport, PA",
+    "yrfounded":2020,
+    "yrs":5,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.4878612,41.062127 ]
+    },
+    "properties": {
+    "promotion":"Frontier Pro Wrestling",
+    "state":"PA",
+    "location":"1539 Long Pond Rd, Long Pond, PA 18334",
+    "yrfounded":2021,
+    "yrs":4,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.5657319,40.5989928 ]
+    },
+    "properties": {
+    "promotion":"Honorary Wrestling Federation",
+    "state":"PA",
+    "location":"108 Montgomery Ave, Lewistown, PA 17044",
+    "yrfounded":2019,
+    "yrs":6,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.3952808,40.534266 ]
+    },
+    "properties": {
+    "promotion":"Imagine Wrestling",
+    "state":"PA",
+    "location":"Altoona, PA",
+    "yrfounded":2018,
+    "yrs":7,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8391667,40.2802778 ]
+    },
+    "properties": {
+    "promotion":"International Wrestling Cartel",
+    "state":"PA",
+    "location":"Elizabeth, PA",
+    "yrfounded":2001,
+    "yrs":24,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.9565783,40.4786412 ]
+    },
+    "properties": {
+    "promotion":"Keystone State Wrestling Alliance",
+    "state":"PA",
+    "location":"Pittsburgh, PA",
+    "yrfounded":2000,
+    "yrs":25,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.2618786,41.6881309 ]
+    },
+    "properties": {
+    "promotion":"Northern Tier Wrestling",
+    "state":"PA",
+    "location":"Wyalusing, PA 18853",
+    "yrfounded":2016,
+    "yrs":9,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5316394,40.2772982 ]
+    },
+    "properties": {
+    "promotion":"Pitt Fight",
+    "state":"PA",
+    "location":"Pitt Campus Rd, Greensburg, PA, 15601",
+    "yrfounded":2019,
+    "yrs":6,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.631992,40.8375642 ]
+    },
+    "properties": {
+    "promotion":"Prospect Pro Wrestling",
+    "state":"PA",
+    "location":"Worthington, PA",
+    "yrfounded":2018,
+    "yrs":7,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0977544,42.0892862 ]
+    },
+    "properties": {
+    "promotion":"Empire State Wrestling",
+    "state":"PA",
+    "location":"3828 Washington Ave, Erie, PA 16509",
+    "yrfounded":2007,
+    "yrs":18,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7660683,40.2085464 ]
+    },
+    "properties": {
+    "promotion":"Renegade Wrestling Alliance",
+    "state":"PA",
+    "location":"Newton, PA",
+    "yrfounded":2009,
+    "yrs":16,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0834104,42.125472 ]
+    },
+    "properties": {
+    "promotion":"Revenge Pro Wrestling",
+    "state":"PA",
+    "location":"Erie, PA",
+    "yrfounded":2018,
+    "yrs":7,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.6472281,39.9604777 ]
+    },
+    "properties": {
+    "promotion":"RYSE",
+    "state":"PA",
+    "location":"Lemont Furnace, PA",
+    "yrfounded":2016,
+    "yrs":9,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.8501955,41.2753589 ]
+    },
+    "properties": {
+    "promotion":"TRUE Wrestling",
+    "state":"PA",
+    "location":"Plains, PA",
+    "yrfounded":2015,
+    "yrs":10,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4160647,34.8778993 ]
+    },
+    "properties": {
+    "promotion":"3Count Pro",
+    "state":"SC",
+    "location":"11 Tampa St, Greenville, SC 29609",
+    "yrfounded":2015,
+    "yrs":10,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.9815626,35.0351564 ]
+    },
+    "properties": {
+    "promotion":"Asylum Pro Wrestling",
+    "state":"SC",
+    "location":"122 Builders Ct, Boiling Springs, SC 29316",
+    "yrfounded":2023,
+    "yrs":2,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.409323,34.847942 ]
+    },
+    "properties": {
+    "promotion":"Pro Wrestling TURBO",
+    "state":"SC",
+    "location":"424 Westfield St, Greenville, SC 29601",
+    "yrfounded":2018,
+    "yrs":7,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9815504,36.2739803 ]
+    },
+    "properties": {
+    "promotion":"127 Pro Wrestling",
+    "state":"TN",
+    "location":"4865 S York Hwy, Grimsley, TN 38565",
+    "yrfounded":2019,
+    "yrs":6,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9830136,35.1150303 ]
+    },
+    "properties": {
+    "promotion":"Championship One Wrestling",
+    "state":"TN",
+    "location":"130 McDonald School Rd, McDonald, TN 37353",
+    "yrfounded":2022,
+    "yrs":3,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.9737935,35.7895271 ]
+    },
+    "properties": {
+    "promotion":"East Tennessee Championship Wrestling",
+    "state":"TN",
+    "location":"Alcoa, TN",
+    "yrfounded":2013,
+    "yrs":12,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.56,36.548 ]
+    },
+    "properties": {
+    "promotion":"Innovate Wrestling",
+    "state":"TN",
+    "location":"Kingsport, TN",
+    "yrfounded":2004,
+    "yrs":21,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5638821,35.8516052 ]
+    },
+    "properties": {
+    "promotion":"KAPOW Wrestling",
+    "state":"TN",
+    "location":"1004 Parkway, Sevierville, TN 37862",
+    "yrfounded":2012,
+    "yrs":13,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5650408,35.852153 ]
+    },
+    "properties": {
+    "promotion":"NWA Kross Fire Wrestling",
+    "state":"TN",
+    "location":"1005 Parkway, Sevierville, TN 37862",
+    "yrfounded":2015,
+    "yrs":10,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5739364,35.80617 ]
+    },
+    "properties": {
+    "promotion":"Micro Wrestling Federation",
+    "state":"TN",
+    "location":"185 E Wears Valley Rd, Pigeon Forge, TN 37863",
+    "yrfounded":2013,
+    "yrs":12,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.6925676,35.8734046 ]
+    },
+    "properties": {
+    "promotion":"Mid South Wrestling Association",
+    "state":"TN",
+    "location":"111 Hewitt Ave, Rockwood, TN 37854",
+    "yrfounded":2014,
+    "yrs":11,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.214015,35.91381 ]
+    },
+    "properties": {
+    "promotion":"Next Generation Wrestling",
+    "state":"TN",
+    "location":"7055 Armory Rd, Newport, TN 37821",
+    "yrfounded":2014,
+    "yrs":11,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.2017792,35.349176 ]
+    },
+    "properties": {
+    "promotion":"No Limit Pro Wrestling",
+    "state":"TN",
+    "location":"106 Southside St, Tullahoma, TN 37388",
+    "yrfounded":2020,
+    "yrs":5,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.4610394,35.6014636 ]
+    },
+    "properties": {
+    "promotion":"NWA Joe Cazana Promotions - SE",
+    "state":"TN",
+    "location":"Sweetwater, TN 37874",
+    "yrfounded":2016,
+    "yrs":9,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.5006123,36.3820697 ]
+    },
+    "properties": {
+    "promotion":"Piledriver Pro",
+    "state":"TN",
+    "location":"1440 TN-75, Johnson City, TN 37615",
+    "yrfounded":2020,
+    "yrs":5,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.0342224,35.7492703 ]
+    },
+    "properties": {
+    "promotion":"Revolutionary Wrestling Alliance",
+    "state":"TN",
+    "location":"2146 Big Springs Rd, Maryville, TN 37801",
+    "yrfounded":2016,
+    "yrs":9,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.3096801,35.0456297 ]
+    },
+    "properties": {
+    "promotion":"Scenic City Invitational",
+    "state":"TN",
+    "location":"Chattanooga, TN",
+    "yrfounded":2015,
+    "yrs":10,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6880742,36.2159925 ]
+    },
+    "properties": {
+    "promotion":"School of Morton",
+    "state":"TN",
+    "location":"2085 Chuckey Hwy, Chuckey, TN 37614",
+    "yrfounded":2014,
+    "yrs":11,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.5588779,36.5466821 ]
+    },
+    "properties": {
+    "promotion":"Southern States Wrestling",
+    "state":"TN",
+    "location":"201 E Center St, Kingsport, TN 37660",
+    "yrfounded":1991,
+    "yrs":34,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.2020152,35.3492863 ]
+    },
+    "properties": {
+    "promotion":"Southern Wrestling Federation",
+    "state":"TN",
+    "location":"106 Southside St, Tullahoma, TN 37388",
+    "yrfounded":2002,
+    "yrs":23,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.8476239,35.6363669 ]
+    },
+    "properties": {
+    "promotion":"Tennessee All Pro Wrestling",
+    "state":"TN",
+    "location":"5542 Manchester Hwy, Morrison, TN 37357",
+    "yrfounded":2017,
+    "yrs":8,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1998055,35.5956792 ]
+    },
+    "properties": {
+    "promotion":"Tennessee Wrestling Alliance",
+    "state":"TN",
+    "location":"97 Tom Pope Rd, Pikeville, TN 37367",
+    "yrfounded":2018,
+    "yrs":7,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.279877,35.1387379 ]
+    },
+    "properties": {
+    "promotion":"Total Wrestling Entertainment Chattanooga",
+    "state":"TN",
+    "location":"4825 Dayton Blvd, Chattanooga, TN 37415",
+    "yrfounded":2013,
+    "yrs":12,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.9739156,39.4409277 ]
+    },
+    "properties": {
+    "promotion":"Elite Pro Wrestling Alliance",
+    "state":"WV",
+    "location":"Keyser, WV",
+    "yrfounded":2009,
+    "yrs":16,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.018666,39.3414614 ]
+    },
+    "properties": {
+    "promotion":"Real Shoot Wrestling",
+    "state":"WV",
+    "location":"Grafton, WV",
+    "yrfounded":2017,
+    "yrs":8,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3461526,38.7990663 ]
+    },
+    "properties": {
+    "promotion":"Route 33 Wrestling",
+    "state":"WV",
+    "location":"201 E Main St, Spencer, WV 25276",
+    "yrfounded":2018,
+    "yrs":7,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.7542054,39.9478531 ]
+    },
+    "properties": {
+    "promotion":"Showtime Championship Wrestling Alliance",
+    "state":"WV",
+    "location":"Glen Dale, WV 26038",
+    "yrfounded":2016,
+    "yrs":9,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.965118,38.9864256 ]
+    },
+    "properties": {
+    "promotion":"Topnotch Wrestling Alliance",
+    "state":"WV",
+    "location":"104 Bulter St, New Haven, WV 25265",
+    "yrfounded":2023,
+    "yrs":2,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8467349,38.9259397 ]
+    },
+    "properties": {
+    "promotion":"Tygart Valley Wrestling Federation",
+    "state":"WV",
+    "location":"Elkins, WV 26241",
+    "yrfounded":2019,
+    "yrs":6,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.9620197,39.4350056 ]
+    },
+    "properties": {
+    "promotion":"Voltage Wrestling",
+    "state":"WV",
+    "location":"126 Kelly Island Rd, Martinsburg, WV 25401",
+    "yrfounded":2021,
+    "yrs":4,
+    "website":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.9757387,39.4534899 ]
+    },
+    "properties": {
+    "promotion":"World Domination Wrestling Alliance",
+    "state":"WV",
+    "location":"605b Winchester Ave, Martinsburg, WV 25401",
+    "yrfounded":2016,
+    "yrs":9,
+    "website":""
+    }
+  }
+]
+}
