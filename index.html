@@ -29,7 +29,7 @@
         height: 20px;
         float: left;
         margin-right: 8px;
-        opacity: 0.9;
+        opacity: 0.95;
     }
     
     .legend img {
@@ -107,11 +107,11 @@
 
 //3. Polygon visualization
 
-// removing this broke my map so I had to leave it, even though it's technically not working
+// removing this broke my map so I had to leave it, even though it's not working
 // 6. Set function for color ramp
 colors = chroma.scale('Oranges').colors(9); 
  
-// removing this broke my map so I had to leave it, even though it's technically not working
+// removing this broke my map so I had to leave it, even though it's not working
 function setColor(density) {
     var id = 0;
     if (density >= 5) { id = 5; }
@@ -125,8 +125,7 @@ function setColor(density) {
 
 //3. Apply color palette    
 
-// removing this broke my map so I had to leave it, even though it's technically not working
-// 7. Set style function that sets fill color property equal to total Airbnbs
+// removing this broke my map so I had to leave it, even though it's  not working
 function style(feature) {
     return {
         fillColor: setColor(feature.properties.coordinates),
