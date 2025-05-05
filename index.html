@@ -153,13 +153,15 @@ L.geoJson.ajax("assets/appalachiancounties.geojson", {
     //this line creates a title for the choropleth part of the legend
     div.innerHTML += '<b>GrApp Map: Wrestling Promotions in Appalachia</b><br />';
 
-    div.innerHTML += '<hr><b>Time in Operation<b><br />';
+    div.innerHTML += '<p>The GrApp Map showcases the plethora of local and regional professional wrestling promotions throughout the Appalachian Region! This is an ongoing mapping effort to centralize information about Appalachian wrestling.</p>'
+	    
+    div.innerHTML += '<hr><b>Years Active<b><br />';
   
-    div.innerHTML += '<i class="fa-solid fa-hand-fist marker-color-1"></i><p>20+ years in operation</p>';
-    div.innerHTML += '<i class="fa-solid fa-hand-fist marker-color-2"></i><p>15-19 years in operation</p>';
-    div.innerHTML += '<i class="fa-solid fa-hand-fist marker-color-3"></i><p>10-14 years in operation</p>';
-    div.innerHTML += '<i class="fa-solid fa-hand-fist marker-color-4"></i><p>5-9 years in operation</p>';
-    div.innerHTML += '<i class="fa-solid fa-hand-fist marker-color-6"></i><p>1-4 years in operation</p>';
+    div.innerHTML += '<i class="fa-solid fa-hand-fist marker-color-1"></i><p>20+ years</p>';
+    div.innerHTML += '<i class="fa-solid fa-hand-fist marker-color-2"></i><p>15-19 years</p>';
+    div.innerHTML += '<i class="fa-solid fa-hand-fist marker-color-3"></i><p>10-14 years</p>';
+    div.innerHTML += '<i class="fa-solid fa-hand-fist marker-color-4"></i><p>5-9 years</p>';
+    div.innerHTML += '<i class="fa-solid fa-hand-fist marker-color-6"></i><p>1-4 years</p>';
     // Return the Legend div containing the HTML content
     return div;
     };
