@@ -66,7 +66,7 @@
     });
 
 // 2. Add a base map.
-    L.tileLayer('http://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}.png').addTo(mymap);
+    L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{z}/{y}/{x}').addTo(mymap);
 
 // 3. Add GrApps GeoJSON Data
 // Null variable that will hold GrApps data
@@ -100,7 +100,7 @@
             else { id = 5;} // All other property types from attribute table
             return L.marker(latlng, {icon: L.divIcon({className: 'fa-solid fa-hand-fist marker-color-' + (id + 1).toString() })});
         },
-    attribution: 'GrApp Map &copy; Data from WrestleMap | Base Map &copy; CartoDB | Map Author: Caleb Brown '
+    attribution: 'GrApp Map &copy; Data from WrestleMap & CageMatch | Base Map &copy; CartoDB | Map Author: Caleb Brown '
     }).addTo(mymap);
 
 // Section 2: Add Data Layer 2
