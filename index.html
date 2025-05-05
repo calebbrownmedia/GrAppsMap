@@ -12,15 +12,15 @@
  	html, body, #map { width: 100%; height: 100%; margin: 0; background: #fff; }
 
     .legend {
-    line-height: 40px;
+    line-height: 50px;
     font-size: 18px;
     width: 190px;
-    color: #333333;
+    color: #000000;
     padding: 6px 8px;
-    background: white;
-    background: rgba(255,255,255,0.5);
-    box-shadow: 0 0 15px rgba(0,0,0,0.2);
-    border-radius: 5px;
+    background: rgb(255, 239, 195);
+    background: rgba(255, 176, 111, 0.5);
+    box-shadow: 0 0 30px rgba(0,0,0,0.2);
+    border-radius: 10px;
     font-family: 'Helvetica', sans-serif;
     }
  
@@ -86,7 +86,7 @@
  
     // assign a function to the onEachFeature parameter of the GrAppMap object.
         onEachFeature: function (feature, layer) {
-            layer.bindPopup(feature.properties.promotion);
+               layer.bindPopup(feature.properties.promotion + "; " + feature.properties.location);
         },
 
 
